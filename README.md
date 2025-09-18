@@ -5,3 +5,8 @@ id: admin@gmail.com
 pass: 12345678
 # thư mục app (cmd)
 flutter pub get
+# poketbase sever
+tạo user: duy@gmail.com
+tạo pass: 12345678
+# yêu cầu cài đặt
+android studio
